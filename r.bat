@@ -1,0 +1,4 @@
+java -cp .; password
+
+pause
+
